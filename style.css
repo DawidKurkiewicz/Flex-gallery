@@ -17,8 +17,7 @@ body {
 }
 
 .panels {
-  margin-top:20%;
-  margin-bottom:20%;
+  margin-top:5%;
   min-height: 50vh;
   overflow: hidden;
   display: flex;
