@@ -8,6 +8,10 @@ html {
 
 body {
   margin: 0;
+  height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 *,
@@ -17,7 +21,7 @@ body {
 }
 
 .panels {
-  margin-top:5%;
+  width: 100%;
   min-height: 50vh;
   overflow: hidden;
   display: flex;
